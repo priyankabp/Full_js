@@ -1,0 +1,11 @@
+{
+  "name": "fulljs",
+  "version": "1.0.0",
+  "description": "Creating Your Own Development Environment for Node and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reference : https://jscomplete.com/learn/1rd-reactful",
+  "license": "ISC"
+}
